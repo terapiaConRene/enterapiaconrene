@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enterapiaconrene
+- 👋 Hi, I’m @terapiaconrene
 - 👀 I’m interested in Data Science and Lerning Machine
 - 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on something to learn
